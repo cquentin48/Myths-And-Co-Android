@@ -1,7 +1,8 @@
-package com.historia.mythsandco
+package com.historia.mythsandco.view.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.historia.mythsandco.R
 
 class MainActivity : AppCompatActivity() {
 
