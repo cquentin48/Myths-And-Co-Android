@@ -1,4 +1,4 @@
-package com.historia.mythsandco.view.activities
+package com.historia.mythsandco.view.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
