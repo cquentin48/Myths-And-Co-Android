@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939692995508",
+    "firebase_url": "https://myths-and-co.firebaseio.com",
+    "project_id": "myths-and-co",
+    "storage_bucket": "myths-and-co.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939692995508:android:10b4c4fe9ddbf1f8de38e1",
+        "android_client_info": {
+          "package_name": "com.historia.mythsandco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939692995508-k9pm3tlva7tjd5c9lmqia2r2ppn299o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.historia.mythsandco",
+            "certificate_hash": "2df8040567fa76cc271e601e9d56418a8ba58ad0"
+          }
+        },
+        {
+          "client_id": "939692995508-n2hm7r5iih2tjkf76bmdar3otuk0arv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kXevzhSNnErhGEEaIBM1KwbJTaw_V4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939692995508-n2hm7r5iih2tjkf76bmdar3otuk0arv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
